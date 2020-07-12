@@ -1,4 +1,5 @@
 line 0001
 line 0002 added
 line 003
+line 004
 
